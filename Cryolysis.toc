@@ -1,0 +1,18 @@
+## Interface: 11200
+## Title: |CFFB700B7C|CFFFF00FFr|CFFFF50FFy|CFFFF99FFo|CFFFFC4FFl|CFFFFFFFFy|CFFFFC4FFs|CFFFF99FFis |CFFFF50FFL|CFFFF00FFd|CFFB700B7C |CFF7FFF7F TurtleWOW|r
+## Notes: All-in-one |CFF9482C9Mage|r addon: spells, abilities management, and reagents with quick access to essential abilities, all designed to streamline the MAge experience.
+## Version: 1.8.1
+## Author: D.C.M-Gaming ⚪
+## OptionalDeps:
+## Dependencies:
+## DefaultState:
+## SavedVariables:
+## SavedVariablesPerCharacter: CryolysisConfig
+CryolysisGeneral.xml
+Cryolysis.xml
+CryolysisTimer.xml
+CryolysisProvisionMenu.xml
+CryolysisMessageMenu.xml
+CryolysisButtonMenu.xml
+CryolysisTimerMenu.xml
+CryolysisGraphOptionMenu.xml
